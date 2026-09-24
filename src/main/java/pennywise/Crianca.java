@@ -1,3 +1,6 @@
+//ALUNO: JULIANO MACHADO DA SILVA
+// MATRICULA: 25108646-8
+
 package main.java.pennywise;
 
 public class Crianca implements Comparable<Crianca> {
