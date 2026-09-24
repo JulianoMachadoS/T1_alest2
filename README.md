@@ -17,7 +17,7 @@ A mecânica principal de seleção funciona em tempo real durante a leitura dos 
 1. **Regra de Inserção:** Ao instanciar uma nova `Crianca` (com Nome e Escore), o algoritmo a injeta no `Top10Heap`.
 2. **Descarte Automático:** Se a capacidade de 10 for extrapolada, a Fila de Prioridade automaticamente analisa o topo (a criança menos covarde até aquele ponto) e efetua um `poll()`, expulsando a que possui a maior nota do ranking. O desempate avalia a ordem alfabética.
 3. **Ordenação sob Demanda:** Ao solicitar a visualização do ranking pelo CLI, o heap exporta temporariamente um Array que é processado internamente por uma adaptação própria do algoritmo **Insertion Sort**, devolvendo o grupo final de forma ordenada e crescente sem o uso de bibliotecas prontas do Java.
-
+   <video src="docs/videos/Projeto_Pennywise__Max-Heap.mp4" width="100%" controls></video>
 ## Utilização do Sistema
 A interação ocorre por uma Interface de Linha de Comando (CLI) controlada pela classe `Main`. Navegue inserindo os números correspondentes ou a nomenclatura literal da função:
 
