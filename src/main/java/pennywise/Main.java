@@ -14,7 +14,7 @@ public class Main {
         Top10Heap top10 = new Top10Heap();
         boolean rodando = true;
 
-        System.out.println("Bem-vindo, Pennywise!");
+        System.out.println("Digite os números do menu ou os comandos diretos para navegar.\n\n"+"----Bem-vindo, Pennywise!----");
 
         while (rodando) {
             System.out.println("\n--- MENU ---");
