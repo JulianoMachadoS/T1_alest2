@@ -30,6 +30,8 @@ A mecânica principal de seleção funciona em tempo real durante a leitura dos 
 
 [![Demonstração do Sistema Pennywise](https://img.youtube.com/vi/WksQs2-nuqs/0.jpg)](https://youtu.be/WksQs2-nuqs)
 
+[![Demonstração n2 do Sistema Pennywise](https://youtube.com/shorts/Gt7The-m5Ko/0.jpg)](https://youtube.com/shorts/Gt7The-m5Ko)
+
 ## Utilização do Sistema
 A interação ocorre por uma Interface de Linha de Comando (CLI) controlada pela classe `Main`. Navegue inserindo os números correspondentes ou a nomenclatura literal da função:
 
