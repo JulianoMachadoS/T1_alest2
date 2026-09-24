@@ -1,0 +1,24 @@
+# Arquivos compilados
+target/
+*.class
+out/
+
+# Metadados de IDEs
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# Arquivos do Sistema Operacional
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+
+# Ignorar arquivos temporários e logs
+*.log
+*.tmp
